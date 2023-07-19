@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/sahil5112001.github.io/Reactproject/static/css/main.a935a3ae.chunk.css",
-    "main.js": "/sahil5112001.github.io/Reactproject/static/js/main.a38e03b6.chunk.js",
-    "main.js.map": "/sahil5112001.github.io/Reactproject/static/js/main.a38e03b6.chunk.js.map",
-    "runtime-main.js": "/sahil5112001.github.io/Reactproject/static/js/runtime-main.50449acc.js",
-    "runtime-main.js.map": "/sahil5112001.github.io/Reactproject/static/js/runtime-main.50449acc.js.map",
-    "static/js/2.c099bdb6.chunk.js": "/sahil5112001.github.io/Reactproject/static/js/2.c099bdb6.chunk.js",
-    "static/js/2.c099bdb6.chunk.js.map": "/sahil5112001.github.io/Reactproject/static/js/2.c099bdb6.chunk.js.map",
-    "static/js/3.c8a445fe.chunk.js": "/sahil5112001.github.io/Reactproject/static/js/3.c8a445fe.chunk.js",
-    "static/js/3.c8a445fe.chunk.js.map": "/sahil5112001.github.io/Reactproject/static/js/3.c8a445fe.chunk.js.map",
+    "main.js": "/sahil5112001.github.io/Reactproject/static/js/main.85e09091.chunk.js",
+    "main.js.map": "/sahil5112001.github.io/Reactproject/static/js/main.85e09091.chunk.js.map",
+    "runtime-main.js": "/sahil5112001.github.io/Reactproject/static/js/runtime-main.1bb1b90c.js",
+    "runtime-main.js.map": "/sahil5112001.github.io/Reactproject/static/js/runtime-main.1bb1b90c.js.map",
+    "static/js/2.40e1b218.chunk.js": "/sahil5112001.github.io/Reactproject/static/js/2.40e1b218.chunk.js",
+    "static/js/2.40e1b218.chunk.js.map": "/sahil5112001.github.io/Reactproject/static/js/2.40e1b218.chunk.js.map",
+    "static/js/3.f5c3a8d2.chunk.js": "/sahil5112001.github.io/Reactproject/static/js/3.f5c3a8d2.chunk.js",
+    "static/js/3.f5c3a8d2.chunk.js.map": "/sahil5112001.github.io/Reactproject/static/js/3.f5c3a8d2.chunk.js.map",
     "index.html": "/sahil5112001.github.io/Reactproject/index.html",
     "static/css/main.a935a3ae.chunk.css.map": "/sahil5112001.github.io/Reactproject/static/css/main.a935a3ae.chunk.css.map",
-    "static/js/2.c099bdb6.chunk.js.LICENSE.txt": "/sahil5112001.github.io/Reactproject/static/js/2.c099bdb6.chunk.js.LICENSE.txt"
+    "static/js/2.40e1b218.chunk.js.LICENSE.txt": "/sahil5112001.github.io/Reactproject/static/js/2.40e1b218.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.50449acc.js",
-    "static/js/2.c099bdb6.chunk.js",
+    "static/js/runtime-main.1bb1b90c.js",
+    "static/js/2.40e1b218.chunk.js",
     "static/css/main.a935a3ae.chunk.css",
-    "static/js/main.a38e03b6.chunk.js"
+    "static/js/main.85e09091.chunk.js"
   ]
 }
